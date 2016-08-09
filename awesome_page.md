@@ -3,7 +3,7 @@
 This is **Maggie** and **Derrick** completely managing our *DBC GPS Assignment*.
 [Link here](https://devbootcamp.instructure.com/courses/54/assignments/5337) for the curious.
 
-**He's a maniac! RUN!**
+**He's a maniac! EMBRACE HIM!**
 
 ``` 511  subl awesome_page.md
   512  subl awesome_page.md
